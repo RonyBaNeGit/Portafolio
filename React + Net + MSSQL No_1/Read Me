@@ -1,1 +1,3 @@
 Aplicacion con Net Core 6 en Backend / React Frontend / BD en MSSQL
+
+Scaffold-DbContext "Data Source=(local);Initial Catalog=EReact_01;Integrated Security=True;Encrypt=False;TrustServerCertificate=False;" Microsoft.EntityFrameworkCore.SqlServer -OutPutDir Models
